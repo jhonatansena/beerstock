@@ -14,9 +14,9 @@
 	<name>beerstock</name>
 	<description>Beer stock project for testing live coding</description>
 
-	<properties>
-		<java.version>14</java.version>
-	</properties>
+	<!--<properties>-->
+		<!--<java.version>11</java.version>-->
+	<!--</properties>-->
 
 	<dependencies>
 		<dependency>
